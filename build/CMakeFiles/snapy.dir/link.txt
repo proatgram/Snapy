@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/snapy.dir/src/Mount.cpp.o CMakeFiles/snapy.dir/src/main.cpp.o  -o snapy  -lyaml-cpp 

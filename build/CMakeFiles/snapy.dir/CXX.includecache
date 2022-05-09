@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/Mount.h
+string
+-
+
+/home/thetimbrick/eclipse-workspace/snapy/src/Mount.cpp
+Mount.h
+/home/thetimbrick/eclipse-workspace/snapy/src/Mount.h
+
+/home/thetimbrick/eclipse-workspace/snapy/src/main.cpp
+cstdlib
+-
+Mount.h
+/home/thetimbrick/eclipse-workspace/snapy/src/Mount.h
+

@@ -1,0 +1,9 @@
+/home/thetimbrick/eclipse-workspace/snapy/build/CMakeFiles/install/local.dir
+/home/thetimbrick/eclipse-workspace/snapy/build/CMakeFiles/edit_cache.dir
+/home/thetimbrick/eclipse-workspace/snapy/build/CMakeFiles/package_source.dir
+/home/thetimbrick/eclipse-workspace/snapy/build/CMakeFiles/install.dir
+/home/thetimbrick/eclipse-workspace/snapy/build/CMakeFiles/list_install_components.dir
+/home/thetimbrick/eclipse-workspace/snapy/build/CMakeFiles/rebuild_cache.dir
+/home/thetimbrick/eclipse-workspace/snapy/build/CMakeFiles/package.dir
+/home/thetimbrick/eclipse-workspace/snapy/build/CMakeFiles/install/strip.dir
+/home/thetimbrick/eclipse-workspace/snapy/build/CMakeFiles/snapy.dir
